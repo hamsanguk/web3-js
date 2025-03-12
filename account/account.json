@@ -1,0 +1,8 @@
+{
+    "chainId": "1337",
+    "account": {
+      "address": "0x012912668C02fF30BD9f57463bDBa82ADBF322a8",
+      "privateKey": "0x0db165338d78ad3987c7bd3342e24b36f9c1d63aba6db76662350a6713f21195"
+    },
+    "balance": "0"
+  }
